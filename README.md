@@ -36,7 +36,7 @@
   <ul class="USP-v">
     <li class="USPe i_cm"><a href="https://www.breiwebshop.nl/patronen/">Haak- en breipatronen collectie</a> – overzichtelijk per thema.</li>
     <li class="USPe i_cm"><a target="_blank" href="https://www.ravelry.com/shops/yarnies---breiwebshopnl">Ravelry</a> – een internationale community vol inspiratie en patronen.</li>
-    <li class="USPe i_cm"><a target="_blank" href="pinterest.com/yarnies_nl/">Pinterest</a> – ideaal om moodboards te maken en trends te ontdekken.</li>
+    <li class="USPe i_cm"><a target="_blank" href="https://pinterest.com/yarnies_nl/">Pinterest</a> – ideaal om moodboards te maken en trends te ontdekken.</li>
     <li class="USPe i_cm"><a target="_blank" href="https://www.instagram.com/yarnies_nl">Instagram</a> – volg ontwerpers en hashtags als #hakenisleuk of #breienvoorbeginners.</li>
   </ul>
   
