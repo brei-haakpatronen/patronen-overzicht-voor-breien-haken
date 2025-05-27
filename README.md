@@ -23,7 +23,7 @@ Patronen overzicht - voor breien/haken
   </ul>
 
   <h2>Gratis patronen vs. betaalde ontwerpen</h2>
-  <p>Er is een overvloed aan gratis patronen online, perfect om nieuwe technieken uit te proberen. Betaalde patronen zijn vaak uitgebreider, beter getest en komen met duidelijke foto’s en schema’s. Tip: bewaar jouw favorieten in mappen of gebruik apps zoals <a target="_blank" href="https://www.ravelry.com/">Ravelry</a> om je collectie te organiseren.</p>
+  <p>Er is een overvloed aan gratis patronen online, perfect om nieuwe technieken uit te proberen. Betaalde patronen zijn vaak uitgebreider, beter getest en komen met duidelijke foto’s en schema’s. Tip: bewaar jouw favorieten in mappen of gebruik apps zoals <a target="_blank" href="https://www.ravelry.com/shops/yarnies---breiwebshopnl">Ravelry</a> om je collectie te organiseren.</p>
 
   <h2>Zo bouw je een slimme patronenbibliotheek op</h2>
   <ul class="USP-v L-mt8">
@@ -38,7 +38,7 @@ Patronen overzicht - voor breien/haken
   <p>Zoek je nieuwe patronen? Bezoek dan eens de volgende plekken:</p>
   <ul class="USP-v">
     <li class="USPe i_cm"><a href="https://www.breiwebshop.nl/patronen/">Haak- en breipatronen collectie</a> – overzichtelijk per thema.</li>
-    <li class="USPe i_cm"><a target="_blank" href="https://www.ravelry.com/shops/breiwebshopnl">Ravelry</a> – een internationale community vol inspiratie en patronen.</li>
+    <li class="USPe i_cm"><a target="_blank" href="https://www.ravelry.com/shops/yarnies---breiwebshopnl">Ravelry</a> – een internationale community vol inspiratie en patronen.</li>
     <li class="USPe i_cm"><a target="_blank" href="pinterest.com/yarnies_nl/">Pinterest</a> – ideaal om moodboards te maken en trends te ontdekken.</li>
     <li class="USPe i_cm"><a target="_blank" href="https://www.instagram.com/yarnies_nl">Instagram</a> – volg ontwerpers en hashtags als #hakenisleuk of #breienvoorbeginners.</li>
   </ul>
