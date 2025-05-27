@@ -1,6 +1,3 @@
-# patronen-overzicht-voor-breien-haken
-Patronen overzicht - voor breien/haken
-
 <article itemscope itemtype="https://schema.org/Article">
 
   <meta itemprop="headline" content="Haak- en breipatronen: een overzicht voor elk type maker">
@@ -42,9 +39,9 @@ Patronen overzicht - voor breien/haken
     <li class="USPe i_cm"><a target="_blank" href="pinterest.com/yarnies_nl/">Pinterest</a> – ideaal om moodboards te maken en trends te ontdekken.</li>
     <li class="USPe i_cm"><a target="_blank" href="https://www.instagram.com/yarnies_nl">Instagram</a> – volg ontwerpers en hashtags als #hakenisleuk of #breienvoorbeginners.</li>
   </ul>
+  
+  <img style="border-radius:18px" src="https://www.breiwebshop.nl/media/catalog/category/share/patronen-breien-haken-overzicht.jpg" alt="Patronen overzicht - voor breien/haken">
 
   <h2>Geef jouw creativiteit de ruimte</h2>
   <p>Met een goed gevulde patronenbibliotheek binnen handbereik, wordt elk nieuw haak- of breiproject een feestje. Begin klein, organiseer slim en ontdek wat jouw favoriete stijl is. Zo maak je van elk bolletje garen iets moois!</p>
-
-  <img style="border-radius:18px" src="{{store url=''}}media/pages/cms/blog/haakpatronen-bibliotheek.jpg" alt="Haakpatronen bibliotheek">
 </article>
