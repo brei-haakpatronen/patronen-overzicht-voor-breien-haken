@@ -2,7 +2,7 @@
 
   <meta itemprop="headline" content="Haak- en breipatronen: een overzicht voor elk type maker">
   <meta itemprop="description" content="Ontdek de verschillende soorten haak- en breipatronen, van amigurumi tot kledingstukken. Leer hoe je patronen kiest, bewaart en jouw eigen bibliotheek opbouwt.">
-  <meta itemprop="image" content="{{store url=''}}media/pages/cms/blog/haakpatronen-bibliotheek.jpg">
+  <meta itemprop="image" content="https://www.breiwebshop.nl/media/catalog/category/share/patronen-breien-haken-overzicht.jpg">
   <meta itemprop="author" content="Yarnies">
 
   <h1 class="MT">Haak- en breipatronen: een overzicht voor elk type maker</h1>
