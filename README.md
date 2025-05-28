@@ -7,7 +7,7 @@
 
   <h1 class="MT">Haak- en breipatronen: een overzicht voor elk type maker</h1>
 
-  <p>Een goede <a href="https://www.breiwebshop.nl/patronen/">Haak- en breipatronenpagina</a> is als een schatkist vol inspiratie. Of je nu houdt van kleine projecten zoals amigurumi, graag kleding maakt of seizoensdecoraties haakt: voor elk idee bestaat er wel een patroon. In deze gids nemen we je mee langs de verschillende soorten patronen en geven we tips om jouw persoonlijke bibliotheek op te bouwen en te organiseren.</p>
+  <p>Een goede pagina met <a href="https://www.breiwebshop.nl/patronen/" title="Bekijk de verzamelijk van populaire haak- en breipatronen in één overzicht">haak- en breipatronen</a> is als een schatkist vol inspiratie. Of je nu houdt van kleine projecten zoals amigurumi, graag kleding maakt of seizoensdecoraties haakt: voor elk idee bestaat er wel een patroon. In deze gids nemen we je mee langs de verschillende soorten patronen en geven we tips om jouw persoonlijke bibliotheek op te bouwen en te organiseren.</p>
 
   <h2>De soorten haak- en breipatronen die je moet kennen</h2>
   <ul class="USP-v L-mt8">
